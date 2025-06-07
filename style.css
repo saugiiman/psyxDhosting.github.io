@@ -1,1 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0d0d0d;
+  color: white;
+  text-align: center;
+  padding: 50px;
+}
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+.logo {
+  width: 150px;
+}
+input, button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+.btn {
+  background: #1e90ff;
+  color: white;
+  padding: 12px;
+  text-decoration: none;
+  border-radius: 8px;
+  display: inline-block;
+}
 
